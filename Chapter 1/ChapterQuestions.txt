@@ -1,0 +1,98 @@
+1.1 What are hardware and software?
+            ■ HARDWARE - Comprises the visible, physical elements of the computer.
+            ■ SOFTWARE - Software provides the invisible instructions that control the hardware and make it perform specific tasks.
+1.2 List five major hardware components of a computer.
+            ■ A central processing unit (CPU)
+            ■ Memory (main memory)
+            ■ Storage devices (such as disks and CDs)
+            ■ Input devices (such as the mouse and keyboard)
+            ■ Output devices (such as monitors and printers)
+            ■ Communication devices (such as modems and network interface cards)
+1.3 What does the acronym “CPU” stand for?
+            ■ A central processing unit
+1.4 What unit is used to measure CPU speed?
+            ■ Hertz (Hz)
+1.5 What is a bit? What is a byte?
+            ■
+1.6 What is memory for? What does RAM stand for? Why is memory called RAM?
+            ■
+1.7 What unit is used to measure memory size?
+            ■
+1.8 What unit is used to measure disk size?
+            ■
+1.9 What is the primary difference between memory and a storage device?
+            ■
+1.10 What language does the CPU understand?
+            ■
+1.11 What is an assembly language?
+            ■
+1.12 What is an assembler?
+            ■
+1.13 What is a high-level programming language?
+            ■
+1.14 What is a source program?
+            ■
+1.15 What is an interpreter?
+            ■
+1.16 What is a compiler?
+            ■
+1.17 What is the difference between an interpreted language and a compiled language?
+            ■
+1.18 What is an operating system? List some popular operating systems.
+            ■
+1.19 What are the major responsibilities of an operating system?
+            ■
+1.20 What are multiprogramming, multithreading, and multiprocessing?
+            ■
+1.21 Who invented Java? Which company owns Java now?
+            ■
+1.22 What is a Java applet?
+            ■
+1.23 What programming language does Android use?
+            ■
+1.24 What is the Java language specification?
+            ■
+1.25 What does JDK stand for?
+            ■
+1.26 What does IDE stand for?
+            ■
+1.27 Are tools like NetBeans and Eclipse different languages from Java, or are they dialects or extensions of Java?
+            ■
+1.28 What is a keyword? List some Java keywords.
+            ■
+1.29 Is Java case sensitive? What is the case for Java keywords?
+            ■
+1.30 What is a comment? Is the comment ignored by the compiler? How do you denote a comment line and a comment paragraph?
+            ■
+1.31 What is the statement to display a string on the console?
+            ■
+1.32 Show the output of the following code:
+    public class Test {
+        public static void main(String[] args) {
+            System.out.println("3.5 * 4 / 2 – 2.5 is ");
+            System.out.println(3.5 * 4 / 2 – 2.5);
+        }
+    }
+
+1.33 What is the Java source filename extension, and what is the Java bytecode filename extension?
+            ■
+1.34 What are the input and output of a Java compiler?
+            ■
+1.35 What is the command to compile a Java program?
+            ■
+1.36 What is the command to run a Java program?
+            ■
+1.37 What is the JVM?
+            ■
+1.38 Can Java run on any machine? What is needed to run Java on a computer?
+            ■
+1.39 If a NoClassDefFoundError occurs when you run a program, what is the cause of the error?
+            ■
+1.40 If a NoSuchMethodError occurs when you run a program, what is the cause of the error?
+            ■
+1.42 What are syntax errors (compile errors), runtime errors, and logic errors?
+
+1.43 Give examples of syntax errors, runtime errors, and logic errors.
+1.44 If you forget to put a closing quotation mark on a string, what kind error will be raised?
+1.45 If your program needs to read integers, but the user entered strings, an error would occur when running this program. What kind of error is this?
+1.46 Suppose you write a program for computing the perimeter of a rectangle and you mistakenly write your program so that it computes the area of a rectangle. What kind of error is this?
