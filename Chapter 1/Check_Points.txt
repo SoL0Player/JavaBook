@@ -71,37 +71,39 @@
             ■ Multiprocessing - using two or more processors together to preform subtasks.
 
 1.21 Who invented Java? Which company owns Java now?
-            ■
+            ■ James Gosling
+            B) Oracle
 
 1.22 What is a Java applet?
-            ■
+            ■ Employ a modern graphical interface with buttons, text fields, text areas, radio buttons, and so on to interact with the 
+              web processing and its request.
 
 1.23 What programming language does Android use?
-            ■
+            ■ Java
 
 1.24 What is the Java language specification?
-            ■
+            ■ Technical definition of the Java programming language's syntax
 
 1.25 What does JDK stand for?
-            ■
+            ■ Java Development Toolkit
 
 1.26 What does IDE stand for?
-            ■
+            ■ Interated developement environment
 
 1.27 Are tools like NetBeans and Eclipse different languages from Java, or are they dialects or extensions of Java?
-            ■
+            ■ They are dialects
 
 1.28 What is a keyword? List some Java keywords.
-            ■
+            ■ Words that have a specific meaning: public, static, void
 
 1.29 Is Java case sensitive? What is the case for Java keywords?
-            ■
+            ■ lowercase
 
 1.30 What is a comment? Is the comment ignored by the compiler? How do you denote a comment line and a comment paragraph?
-            ■
+            ■ documents what the program is and how it is constructed
 
 1.31 What is the statement to display a string on the console?
-            ■
+            ■ System.out.println(...)
 
 1.32 Show the output of the following code:
     public class Test {
@@ -111,37 +113,53 @@
         }
     }
 
+            Output: 3.5 * 4 / 2 – 2.5 is 
+            Output: -28
 
 1.33 What is the Java source filename extension, and what is the Java bytecode filename extension?
-            ■
+            ■ .java
 
 1.34 What are the input and output of a Java compiler?
-            ■
+            ■ Java Javac
 
 1.35 What is the command to compile a Java program?
-            ■
+            ■ Welcome.java
 
 1.36 What is the command to run a Java program?
-            ■
+            ■ Welcome.Class
 
 1.37 What is the JVM?
-            ■
+            ■ Loads the bytevode of the class the memory using class loader
 
 1.38 Can Java run on any machine? What is needed to run Java on a computer?
-            ■
+            ■ YES & A JVM
 
 1.39 If a NoClassDefFoundError occurs when you run a program, what is the cause of the error?
-            ■
+            ■ The class does not exist
 
 1.40 If a NoSuchMethodError occurs when you run a program, what is the cause of the error?
-            ■
+            ■ Main method is missing
+
+1.41 Reformat the following program accordingly to the programming style and documentation guidelines using End of Brace.
+            ■ public class Test {
+                //Main method
+                public static void main (String[] args) {
+                    /** Display output */
+                    System.out.println("Welcome to Java");
+                }
+            }
 
 1.42 What are syntax errors (compile errors), runtime errors, and logic errors?
+            ■
 
 1.43 Give examples of syntax errors, runtime errors, and logic errors.
+            ■
 
 1.44 If you forget to put a closing quotation mark on a string, what kind error will be raised?
+            ■
 
 1.45 If your program needs to read integers, but the user entered strings, an error would occur when running this program. What kind of error is this?
+            ■
 
 1.46 Suppose you write a program for computing the perimeter of a rectangle and you mistakenly write your program so that it computes the area of a rectangle. What kind of error is this?
+            ■
