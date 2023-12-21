@@ -1,5 +1,6 @@
 /*
- *  Write a program that displays the following pattern
+ * Programming Exercise 1.3 
+ * Write a program that displays the following pattern
  */
 
 public class DisplayAPattern {
