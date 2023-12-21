@@ -1,11 +1,15 @@
 1. A computer is an electronic device that stores and processes data.
+        TRUE
 
 2. A computer includes both hardware and software.
+        TRUE
 
 3. Hardware is the physical aspect of the computer that can be touched.
+        TRUE
 
 4. Computer programs, known as software, are the invisible instructions that control the
    hardware and make it perform tasks.
+        
 
 5. Computer programming is the writing of instructions (i.e., code) for computers to perform.
 
